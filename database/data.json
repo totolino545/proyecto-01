@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"artista": "Riff",
+		"descripcion": "En accion",
+		"genero": "Rock",
+		"precio": 2500,
+		"stock": 2
+	},
+	{
+		"id": 2,
+		"artista": "Vox Dei",
+		"descripcion": "La Biblia",
+		"genero": "Rock",
+		"precio": 2000,
+		"stock": 3
+	},
+	{
+		"id": 3,
+		"artista": "Almendra",
+		"descripcion": "En Obras",
+		"genero": "Rock",
+		"precio": 3000,
+		"stock": 1
+	},
+	{
+		"id": 4,
+		"artista": "Pescado Rabioso",
+		"descripcion": "Desatormentandonos",
+		"genero": "Rock",
+		"precio": "3000",
+		"stock": "1"
+	},
+	{
+		"id": 5,
+		"artista": "Black Sabbath",
+		"descripcion": "Reunion",
+		"genero": "Metal",
+		"precio": "4000",
+		"stock": "1"
+	}
+]
