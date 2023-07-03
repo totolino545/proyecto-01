@@ -35,7 +35,15 @@
 		"id": 5,
 		"artista": "Black Sabbath",
 		"descripcion": "Reunion",
-		"genero": "Metal",
+		"genero": "Heavy Metal",
+		"precio": "4000",
+		"stock": "1"
+	},
+	{
+		"id": 6,
+		"artista": "Black Sabbath",
+		"descripcion": "Paranoid",
+		"genero": "Heavy Metal",
 		"precio": "4000",
 		"stock": "1"
 	}
